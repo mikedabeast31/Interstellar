@@ -165,10 +165,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
 let splashtext = [
   "MIKEDABEAST UNBLOCKER",
-  "Fastest growing proxy server",
-  "Made by Michael B",
-  "your welcome",
-  "Thanks for using the site",
+  "Made by mikedabeast",
+  "MIKEDABEAST OWNS YOU",
 ]
 
 document.getElementById("splash").innerText = splashtext[Math.floor(Math.random() * splashtext.length)]
